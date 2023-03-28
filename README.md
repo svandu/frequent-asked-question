@@ -1,4 +1,4 @@
-# Random Quotes Generator
+# Frequently Asked Question
 
 ## Project Status
 
